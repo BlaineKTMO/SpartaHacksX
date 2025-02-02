@@ -1,0 +1,15 @@
+[submodule "fire_model"]
+	path = fire_model
+	url = git@github.com:jaideep-siva/fire_model.git
+[submodule "fed_learning"]
+	path = fed_learning
+	url = git@github.com:jaideep-siva/fed_learning
+[submodule "shx-be"]
+	path = shx-be
+	url = git@github.com:blainektmo/shx-be
+[submodule "shx-fe"]
+	path = shx-fe
+	url = git@github.com:blainektmo/shx-fe
+[submodule "shx-fe-final"]
+	path = shx-fe-final
+	url = git@github.com:blainektmo/shx-fe-final
